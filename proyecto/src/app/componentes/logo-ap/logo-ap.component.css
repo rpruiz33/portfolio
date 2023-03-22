@@ -1,7 +1,7 @@
 
 .container{
     display: flex;
-  
+
     align-content: center;
     justify-content: space-between;
     align-items: center;
@@ -9,11 +9,7 @@
 .redes{
     margin-right: 0.5em;
 }
-#logoAP{
-    width :150px;
-    background-color: #babfc9;
-    ;
-}
+
 img{
     width :50px;
     color: black;
@@ -32,7 +28,7 @@ p{
     .container{
         flex-direction:column;
     }
-    
+
     .redes{
         display:flex;
         flex-direction: column;
@@ -40,5 +36,5 @@ p{
     }
     .redes img{
         margin:0.2em;
-    } 
+    }
 }
