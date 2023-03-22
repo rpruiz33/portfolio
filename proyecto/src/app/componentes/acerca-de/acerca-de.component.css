@@ -26,22 +26,22 @@ div {
         width: 30%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey ;
-        left: 33%;
-        top: 899px;
+        left: 6%;
+        top: 595px;
     }
 }
 #nombre1{
     font-size: larger;
     font-weight: bold;
     margin: top 30%;
-    color:black; 
+    color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 #nombre{
     font-weight: bold;
     margin: top 30%;
-    color:black; 
+    color:black;
 
 }
 #Acerca{
