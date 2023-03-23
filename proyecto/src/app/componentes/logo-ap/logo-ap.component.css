@@ -5,15 +5,49 @@
     align-content: center;
     justify-content: space-between;
     align-items: center;
+    border-radius: 3%;
+}
+.logo{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row-reverse
+
+}
+.fa-solid {
+  color :black
 }
 .redes{
     margin-right: 0.5em;
-}
+    display: flex;
+    justify-content: center;
 
+}
+.github{
+    margin-right:50px;
+
+}
+.linkedin{
+    margin-right:20px;
+}
 img{
     width :50px;
     color: black;
     background-color: #babfc9;
+    display: flex;
+
+}
+.img2{
+  width :96px;
+  color: black;
+  background-color: #babfc9;
+  display: flex;
 
 }
 p{
