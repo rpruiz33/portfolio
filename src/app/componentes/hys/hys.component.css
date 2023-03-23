@@ -1,0 +1,18 @@
+.row{
+    background-color:  #2a52a8;
+    padding:20px ;
+    box-shadow: 10px 10px 30px;
+}
+img{
+    width: 60px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.titulo{
+    display:inline;
+    background-color: #ffbb00;
+    text-decoration:underline;
+    color: #000000;
+    box-shadow: 10px 10px 30px black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
